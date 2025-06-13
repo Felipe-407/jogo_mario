@@ -21,7 +21,7 @@ const pipe = document.querySelector(".pipe")
             mario.style.animation = "none";
             mario.style.left = `${pipePosition}px`;
 
-            mario.src = ".img/game-over.png";
+            mario.src = "./img/game-over.png";
             mario.style.width = "75px";
             mario.style.marginLeft = "50px";
 
