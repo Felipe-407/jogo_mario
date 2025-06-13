@@ -22,7 +22,7 @@ const pipe = document.querySelector(".pipe")
             mario.style.left = `${pipePosition}px`;
 
             mario.src = ".img/game-over.png";
-            mario.style.width = "750px";
+            mario.style.width = "75px";
             mario.style.marginLeft = "50px";
 
             clearInterval(loop);
